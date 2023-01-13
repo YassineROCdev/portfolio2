@@ -1,0 +1,55 @@
+body {
+    background-color: red;
+    }
+
+    .title {
+        text-align: center;
+        border: 2px solid gold;
+        padding: 10px;
+    }
+
+    .homepage {
+        text-align: center;
+        border: 2px solid green;
+        padding: 10px;
+    }
+
+    .project22{
+        text-align: center;
+        margin-top: 150px;
+        font-size: 25px;
+        border-radius: 30px;
+        background-color: antiquewhite;
+        
+    }
+
+    .data {
+        text-align: center;
+        color: white;
+        background-color: red;
+        width: 100px;
+        height: 75px;
+        margin-left: 575px;
+
+
+    }
+
+    .link {
+        text-decoration: none;
+        margin-left: 575px;
+        color: wheat
+        
+    }
+
+    .wrapper{
+        display: grid;
+        background-color: crimson;
+    }
+.link2{
+    color: blueviolet;
+    text-decoration: none;
+    margin-left: 560px;
+}
+
+
+
